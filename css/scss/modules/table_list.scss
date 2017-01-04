@@ -1,0 +1,79 @@
+/* table list */
+
+.table-list {
+	width: 52%;
+	float: left;
+	height: auto;
+	color: #FFF;
+}
+
+.table-list h5 {
+	font-family: 'Sanchez Bold', Georgia, serif;
+	color: #FFFFFF;
+}
+
+.table-list table {
+	border: 2px solid #FFF;
+	width: 100%;
+}
+
+.table-list .table-header {
+	padding: 4% 2%;
+	border-bottom: 2px solid #FFFFFF;
+}
+
+.table-list .circle-content {
+	border-right: 2px solid #FFFFFF;
+	text-align: center;
+	padding-top: 4%;
+	width: 90px;
+}
+
+.table-list .circle-content div {
+	width: 50px;
+	height: 45px;
+	margin: 0 auto;
+	border: 2px solid #f05a28;
+	border-radius: 30px;
+	padding-top: 5px;
+}
+
+.list-details a, 
+.list-details a:active, 
+.list-details a:visited, 
+.circle-content a, 
+.circle-content a:active, 
+.circle-content a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.list-row:hover .list-details a {
+	text-decoration: underline;
+	color: #f05a28;
+}
+
+.list-row:hover td.circle-content div {
+	background: #f05a28;
+	text-decoration: none;
+}
+
+.circle-content a:hover {
+	text-decoration: none;
+}
+
+.list-details {
+	padding: 4.75% 2% 0 2%;
+}
+
+table tr:last-child td.list-details {
+	padding-bottom: 5%;
+}
+
+.table-list .heading, .long-date {
+	font-family: 'Sanchez Bold', Georgia, serif;
+}
+
+.table-list .subheading {
+	font-family: 'Sanchez Regular', Georgia, serif;
+}

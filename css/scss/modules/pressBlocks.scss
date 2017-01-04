@@ -1,0 +1,33 @@
+/* press blocks */
+
+td.read-more, td.meet {
+	//border-left: 0;
+	text-transform: lowercase;
+	font-family: "Sanchez Regular", serif;
+	padding: 5px;
+}
+
+td.blurb {
+	height: 190px;
+	vertical-align: middle;
+	//border-top: 0;
+	//border-bottom: 0;
+	padding: 0 5px;
+}
+
+td.press-logo-holder {
+	height: 100px;
+	width: 50%;
+	padding: 0.5em;
+}
+
+.read-more {
+	vertical-align: middle;
+}
+
+.press-logo-holder div {
+	height: 100%;
+	width: 100%;
+}
+
+/* end press blocks */

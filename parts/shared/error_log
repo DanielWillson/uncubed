@@ -1,0 +1,18 @@
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::connect() should not be called statically in /home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared/jobs.php on line 23
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::parseDSN() should not be called statically in /usr/local/lib/php/DB.php on line 520
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Declaration of DB_mysql::quote() should be compatible with DB_common::quote($string = NULL) in /usr/local/lib/php/DB/mysql.php on line 48
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::isError() should not be called statically in /usr/local/lib/php/DB.php on line 551
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::isError() should not be called statically in /usr/local/lib/php/DB.php on line 551
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::errorMessage() should not be called statically, assuming $this from incompatible context in /usr/local/lib/php/DB.php on line 965
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::isError() should not be called statically, assuming $this from incompatible context in /usr/local/lib/php/DB.php on line 688
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::isError() should not be called statically in /usr/local/lib/php/DB.php on line 557
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::getDSNString() should not be called statically in /usr/local/lib/php/DB.php on line 559
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method DB::parseDSN() should not be called statically in /usr/local/lib/php/DB.php on line 866
+[28-Jul-2014 16:01:01 UTC] PHP Strict Standards:  Non-static method PEAR::isError() should not be called statically in /home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared/jobs.php on line 24
+[30-Jul-2014 21:48:32 UTC] PHP Warning:  require_once(../src/Google/Client.php): failed to open stream: No such file or directory in /home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared/media.php on line 2
+[30-Jul-2014 21:48:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../src/Google/Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/lib:/lib64') in /home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared/media.php on line 2
+[30-Jul-2014 21:49:33 UTC] PHP Warning:  require_once(Google/Client.php): failed to open stream: No such file or directory in /home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared/media.php on line 3
+[30-Jul-2014 21:49:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'Google/Client.php' (include_path='/home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared../../src:.:/usr/lib/php:/usr/local/lib/php:/lib:/lib64') in /home/shitbeer/public_html/dev/wp-content/themes/uncubed/parts/shared/media.php on line 3
+[06-Aug-2014 23:34:32 UTC] PHP Fatal error:  Call to undefined function get_home_url() in /home/uncubed/public_html/wp-content/themes/uncubed/parts/shared/media.php on line 5
+[07-Aug-2014 00:11:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/uncubed/public_html/wp-content/themes/uncubed/parts/shared/jobs-test.php on line 25
+[07-Aug-2014 00:12:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/uncubed/public_html/wp-content/themes/uncubed/parts/shared/jobs-test.php on line 30

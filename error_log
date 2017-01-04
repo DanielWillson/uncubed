@@ -1,0 +1,31 @@
+
+[10-Sep-2014 18:02:17 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[10-Sep-2014 18:02:17 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 00:52:28 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 00:52:28 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:00:43 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:00:43 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:01:28 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:01:28 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:01:29 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:01:29 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:01:29 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:01:29 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:01:30 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:01:30 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:01:30 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:01:30 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:02:03 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:02:03 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:04:10 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:04:10 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:09:21 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:09:21 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:12:55 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:12:55 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[16-Sep-2014 01:19:25 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[16-Sep-2014 01:19:25 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[01-Oct-2014 13:34:43 UTC] PHP Warning:  fopen(/tmp/Google_Client/55/558db700bd3cda5f6d6b8bd870af5d08): failed to open stream: Permission denied in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 127
+[01-Oct-2014 13:34:43 UTC] PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/uncubed/public_html/wp-content/themes/uncubed/src/Google/Cache/File.php on line 129
+[06-Nov-2014 09:08:39 UTC] PHP Fatal error:  Class 'Starkers_Utilities' not found in /home/uncubed/public_html/wp-content/themes/uncubed/index.php on line 19
+[17-Dec-2014 01:55:47 UTC] PHP Fatal error:  Class 'Starkers_Utilities' not found in /home/uncubed/public_html/wp-content/themes/uncubed/index.php on line 19

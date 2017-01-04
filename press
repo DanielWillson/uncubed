@@ -1,0 +1,592 @@
+
+
+<!DOCTYPE HTML>
+<!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]--> 
+<!--[if lt IE 7 ]><html class="no-js ie6" lang="en"><![endif]--> 
+<!--[if IE 7 ]><html class="no-js ie7" lang="en"><![endif]--> 
+<!--[if IE 8 ]><html class="no-js ie8" lang="en"><![endif]--> 
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+	<head>
+		<script>document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';</script><!--Adaptive Images-->
+		<title>Uncubed | Press</title>
+		<meta charset="UTF-8" />
+	  	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Remove if you're not building a responsive site. (But then why would you do such a thing?) -->
+		<link rel="pingback" href="http://uncubed.com/dev/xmlrpc.php" />
+		<link rel="shortcut icon" href="http://uncubed.com/dev/wp-content/themes/uncubed/img/favicon.ico"/>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-30944811-2');ga('send','pageview');
+        </script>
+        		<link rel="alternate" type="application/rss+xml" title="Uncubed &raquo; Press Comments Feed" href="http://uncubed.com/dev/press/feed/" />
+<link rel='stylesheet' id='screen-css'  href='http://uncubed.com/dev/wp-content/themes/uncubed/style.css?ver=3.9.1' type='text/css' media='screen' />
+<script type='text/javascript' src='http://uncubed.com/dev/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://uncubed.com/dev/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://uncubed.com/dev/wp-content/themes/uncubed/js/site.js?ver=3.9.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://uncubed.com/dev/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://uncubed.com/dev/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Advertise' href='http://uncubed.com/dev/advertise-2/' />
+<link rel='next' title='Terms &amp; Conditions' href='http://uncubed.com/dev/terms-conditions-2/' />
+<meta name="generator" content="WordPress 3.9.1" />
+<link rel='canonical' href='http://uncubed.com/dev/press/' />
+<link rel='shortlink' href='http://uncubed.com/dev/?p=15361' />
+		<script src="http://uncubed.com/dev/wp-content/themes/uncubed/js/blocks-slider.js"></script>
+		<script type="text/javascript" src="http://uncubed.com/dev/wp-content/themes/uncubed/js/jquery.videoBG.js"></script>
+	</head>
+	<body class="page page-id-15361 page-template page-template-press-page-php press" class="clearfix">
+<header>
+	<div id="header-content" class="clearfix">
+		<div id="header-left">
+			<div id="logo-container" onclick="location.href='http://uncubed.com/dev'">
+				<a href="http://uncubed.com/dev"><img src="http://uncubed.com/dev/wp-content/themes/uncubed/images/uncubed-website-logo.jpg" alt="Uncubed" class="logo" /></a>
+			</div>
+			<div id="date">
+				<h6>Friday, August 1, 2014</h6>
+			</div>
+		</div>
+		<div id="header-middle">
+			<h1>
+				Press			</h1>
+		</div>
+		<div id="header-right">
+			<h6>Connecting you to exciting companies</h6>
+		</div>
+	</div>
+	<div id="header-nav-container">
+		<div id="header-nav-wrapper">
+			<div id="menu-container">	
+				<div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-15609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15609"><a href="http://uncubed.com/dev">Home</a></li>
+<li id="menu-item-15402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15402"><a href="http://uncubed.com/dev/stories/">Stories</a></li>
+<li id="menu-item-15401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15401"><a href="http://uncubed.com/dev/events/">Events</a></li>
+<li id="menu-item-15610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15610"><a target="_blank" href="http://uncubed.com/jobs">Jobs</a></li>
+<li id="menu-item-15399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15399"><a href="http://uncubed.com/dev/videos/">Videos</a></li>
+</ul></div>			</div>
+			<div id="header-subscribe">
+				<h6>Meet exciting companies, every day: <form method="post" action="http://uncubed.com/dev/subscribe.php">
+		                <input type="text" class="email" name="email" placeholder="Enter email">
+		                <input type="submit" class="submit" value=">">
+		                <input type="hidden" name="redirect" value="http://uncubed.com/dev/subscribe.php">
+		        </form></h6>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+<div class="main-container">
+	<h3><strong>Uncubed in the Press</strong></h3>
+	<br>
+	<div id="editorial-list">
+		<ul>
+										<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/tnw.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">The Next Web</h6>
+						<h4 class="heading">
+							<a href="http://thenextweb.com/events/2012/10/15/tech-recruiting-startup-festival-uncubed-hits-ny-as-its-creators-launch-their-email-service-nationally/" title="Tech recruiting startup festival Uncubed hits NY as its creators launch their email service nationally">Tech recruiting startup festival Uncubed hits NY as its creators launch their email service nationally</a>
+						</h4>
+						<h6 class="subheading"><p>With Wakefield’s email service and Uncubed simultaneously expanding, it’s possible we’re seeing the start of a future powerhouse</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/easybib.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">EasyBib</h6>
+						<h4 class="heading">
+							<a href="http://content.easybib.com/the-barbell-problem-how-students-find-jobs-at-startups/#.U7wGlPldWAM" title="The Barbell Problem: How Students Find Jobs at Startups">The Barbell Problem: How Students Find Jobs at Startups</a>
+						</h4>
+						<h6 class="subheading"><p>…while there’s growing attention on the tech/startup sector as a career path – there’s also a huge problem in how students ‘discover’ information about the space and what it’s like to work there.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/phillystartupleaders.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Philly Startup Leaders</h6>
+						<h4 class="heading">
+							<a href="http://phillystartupleaders.org/news/psl-partners-with-wakefield-to-bring-uncubed-tech-talent-fair-to-philadelphia-june-21/" title="PSL partners with Wakefield to bring UNCUBED Tech Talent Fair to Philadelphia">PSL partners with Wakefield to bring UNCUBED Tech Talent Fair to Philadelphia</a>
+						</h4>
+						<h6 class="subheading"><p>…it’s fun — and brings the community together for more than just rapid-fire interviews and resume trading.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/flyingkite.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Flying Kite Media</h6>
+						<h4 class="heading">
+							<a href="http://www.flyingkitemedia.com/innovationnews/phillyuncubed0605.aspx" title="Beer pong your way to an employer’s heart at UNCUBED at World Cafe Live on June 21">Beer pong your way to an employer’s heart at UNCUBED at World Cafe Live on June 21</a>
+						</h4>
+						<h6 class="subheading"><p>Looking for work is about to get way cooler, thanks to Uncubed.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/rockland.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Rockland Lifestyle</h6>
+						<h4 class="heading">
+							<a href="http://www.rocklandlifestyle.com/2012/11/12/uncubed_live/" title="Uncubed / Live">Uncubed / Live</a>
+						</h4>
+						<h6 class="subheading"><p>…out of the box on many fronts, not the least of which is the mixing of angel investors, founders, and employees of some of the hottest startups in New York.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/techcrunch_logo.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">TechCrunch</h6>
+						<h4 class="heading">
+							<a href="http://techcrunch.com/2012/06/21/napkin-pitch/" title="Ditch Your Hackathon, Have A Napkin Pitch Contest Like Today’s Uncubed Philadelphia Talent Fair">Ditch Your Hackathon, Have A Napkin Pitch Contest Like Today’s Uncubed Philadelphia Talent Fair</a>
+						</h4>
+						<h6 class="subheading"><p>…startups, incubators, blogs — consider what’s going down at today’s Uncubed Tech Talent Fair in Philadelphia. Rather than a 24 hour hackathon, they’re having a “napkin pitch contest”.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/technicallyphillylogo.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Technically Philly</h6>
+						<h4 class="heading">
+							<a href="http://technical.ly/philly/2012/06/22/uncubed-nyc-tech-job-fair-comes-hits-world-cafe-live-plans-to-return/" title="UNCUBED: NYC tech job fair hits World Cafe Live, plans to return next year">UNCUBED: NYC tech job fair hits World Cafe Live, plans to return next year</a>
+						</h4>
+						<h6 class="subheading"><p>There was plenty of swag, like, too much swag…But OK, there were a lot of resumes and business cards, too.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/fastco.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Fast Company</h6>
+						<h4 class="heading">
+							<a href="http://www.fastcompany.com/1841038/startup-failure-boom-and-what-do-when-it-happens-you" title="The Startup Failure Boom, And What To Do When It Happens To You">The Startup Failure Boom, And What To Do When It Happens To You</a>
+						</h4>
+						<h6 class="subheading"><p>…we’re now building Wakefield, which publishes a daily email on startups and also puts on UNCUBED, New York’s largest startup tech recruiting fair</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/moo.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Moo</h6>
+						<h4 class="heading">
+							<a href="http://us.moo.com/ideas/Uncubed-Tarek-Partew.html" title="Trust your instincts">Trust your instincts</a>
+						</h4>
+						<h6 class="subheading"><p>Uncubed is a very new spin on face-to-face hiring events for startups.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/chicagotribune.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Chicago Tribune</h6>
+						<h4 class="heading">
+							<a href="http://articles.chicagotribune.com/2012-10-03/business/ct-biz-1003-tech-notebook-20121003_1_job-fairs-chicago-startups-chicago-based-startup" title="Belly scores Apple Passbook integration; Uncubed startup job fair in Chicago">Belly scores Apple Passbook integration; Uncubed startup job fair in Chicago</a>
+						</h4>
+						<h6 class="subheading"><p>Job fairs are for squares. That’s why New York-based media company Wakefield is hosting Uncubed, a nontraditional recruitment fair for Chicago startups…</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/lightbank.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Lightbank</h6>
+						<h4 class="heading">
+							<a href="http://www.lightbank.com/happenings/posts/uncubed-a-collection-of-chicago-talent" title="UNCUBED: A Collection of Chicago Talent">UNCUBED: A Collection of Chicago Talent</a>
+						</h4>
+						<h6 class="subheading"><p>UNCUBED is a unique event that attracts innovative companies and passionate talent because it’s approach to matchmaking is so much more than the blind pairing of resumes.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/gawker-touch-icon-200x200.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Gawker</h6>
+						<h4 class="heading">
+							<a href="http://gawker.com/5955807/even-if-youre-totally-unemployable-you-can-get-wasted-pet-puppies-and-party-with-yeasayer-at-this-nyc-job-fair-tech-summit" title="Even If You’re Totally Unemployable, You Can Get Wasted, Pet Puppies, And Party With Yeasayer At This NYC Job Fair/ Tech Summit">Even If You’re Totally Unemployable, You Can Get Wasted, Pet Puppies, And Party With Yeasayer At This NYC Job Fair/ Tech Summit</a>
+						</h4>
+						<h6 class="subheading"><p>A job fair geared towards startups (and companies that have recently graduated from that label) that’s actually fun.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/pandodaily.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">PandoDaily</h6>
+						<h4 class="heading">
+							<a href="http://pando.com/2012/12/17/uncubed-job-fair-helps-companies-show-off-startup-culture/" title="Uncubed job fair helps companies show off startup culture">Uncubed job fair helps companies show off startup culture</a>
+						</h4>
+						<h6 class="subheading"><p>Uncubed, which bills itself as the job fair for people sick of lame job fairs, is going like gangbusters right now.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/built.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Built In Chicago</h6>
+						<h4 class="heading">
+							<a href="http://www.builtinchicago.org/blog/i-you-wakefield-media" title="I like you, Wakefield Media.">I like you, Wakefield Media.</a>
+						</h4>
+						<h6 class="subheading"><p>In cities across the world, there are talented people sitting in cubicles not loving their jobs but unsure of the next step. Solution: Uncubed…</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/techzulu.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">TechZulu</h6>
+						<h4 class="heading">
+							<a href="http://techzulu.com/free-yourself-at-the-uncubed-startup-job-festival/" title="Free Yourself at the Uncubed Startup Job Festival">Free Yourself at the Uncubed Startup Job Festival</a>
+						</h4>
+						<h6 class="subheading"><p>What makes it fun? The bar, the napkin pitch contest, the art battle, startup storytelling, workshops and an after party.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/blackline.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Blackline Review</h6>
+						<h4 class="heading">
+							<a href="http://blacklinereview.com/uncubed-job-fair-for-emerging-companies-attracts-600-applicants/" title="‘Uncubed’ Startup Job Fair Attracts 600 Applicants">‘Uncubed’ Startup Job Fair Attracts 600 Applicants</a>
+						</h4>
+						<h6 class="subheading"><p>…a fun and friendly job fair for those looking to work at a startup company.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/nydailynews.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">NY Daily News</h6>
+						<h4 class="heading">
+							<a href="http://www.nydailynews.com/new-york/nyc-uncubed-puts-twist-tech-job-fair-article-1.1344559" title="NYC Uncubed puts twist on humdrum job fairs for tech startups">NYC Uncubed puts twist on humdrum job fairs for tech startups</a>
+						</h4>
+						<h6 class="subheading"><p>…a twist on the traditional job fair by offering attendees a casual atmosphere — a game room, a music lounge and even beer pong — to rap with recruiters.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/expansion.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Expansión</h6>
+						<h4 class="heading">
+							<a href="http://www.expansion.com/2013/05/27/emprendedores-empleo/emprendimiento/1369674528.html" title="El estilo ‘start up’, una nueva moda para encontrar empleo">El estilo ‘start up’, una nueva moda para encontrar empleo</a>
+						</h4>
+						<h6 class="subheading"><p>Lo que Uncubed representa es la intersección de lo profesional con lo lúdico, lo cultural o los intereses personales.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/png.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Silicon Allee</h6>
+						<h4 class="heading">
+							<a href="http://news.siliconallee.com/2013/09/19/this-should-be-the-worst-time-to-join-a-startup-but-its-not/" title="This Should be the Worst Time to Join a Startup… But it’s Not">This Should be the Worst Time to Join a Startup… But it’s Not</a>
+						</h4>
+						<h6 class="subheading"><p>…[Uncubed] allows talented people access to successful tech startups in a fun, high energy environment…</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/lizatravelbug.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Liza Travel Bug</h6>
+						<h4 class="heading">
+							<a href="http://www.lizatravelbug.com/paper-napkins-dog-costumes-food-and-drink-networking-in-sf-obviously/" title="Paper Napkins + Dog Costumes + Food and Drink = Networking in SF, Obviously.">Paper Napkins + Dog Costumes + Food and Drink = Networking in SF, Obviously.</a>
+						</h4>
+						<h6 class="subheading"><p>A manageable-sized networking and job seeking fair took place upstairs, with great companies… Networking not for the faint of heart!</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/FROM-CO-NYCEDC_RGB_1.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">NYC EDC</h6>
+						<h4 class="heading">
+							<a href="http://www.nycedc.com/blog-entry/nycedc-uncubed-san-francisco" title="NYCEDC at Uncubed San Francisco">NYCEDC at Uncubed San Francisco</a>
+						</h4>
+						<h6 class="subheading"><p>Over 700 people and 30 companies attended the San Francisco Uncubed Career Fair on October 17th, which included music, art, entertainment, and a series of panels on topics ranging from job search tips to startup founder’s stories.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/nypost.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">New York Post</h6>
+						<h4 class="heading">
+							<a href="http://nypost.com/2013/11/24/say-hello-to-job-recruiting-2-0/" title="Say hello to Job Recruiting 2.0">Say hello to Job Recruiting 2.0</a>
+						</h4>
+						<h6 class="subheading"><p>Welcome to the job fair of the future, where anything goes and personalities shine.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/quinnipiac.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Quinnipiac School of Business</h6>
+						<h4 class="heading">
+							<a href="http://quinnipiacschoolofbusiness.wordpress.com/2013/12/11/uncubed-encourages-entrepreneurs/" title="Uncubed encourages entrepreneurs">Uncubed encourages entrepreneurs</a>
+						</h4>
+						<h6 class="subheading"><p>…a high energy, creative gathering of thoughtful leaders of the top startups in the country.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/mediabistro.gif") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Media Bistro</h6>
+						<h4 class="heading">
+							<a href="https://www.mediabistro.com/fishbowlny/uncubed-nyc-spring-2014-dailycandy_b210055" title="NYC Uncubed is Giving All Former DailyCandy Employees a Free Pass">NYC Uncubed is Giving All Former DailyCandy Employees a Free Pass</a>
+						</h4>
+						<h6 class="subheading"><p>Companies participating in the Uncubed event include Thrillist Media Group, Mashable, BuzzFeed and Gilt Groupe.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/bizjournals.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">The Business Journals</h6>
+						<h4 class="heading">
+							<a href="http://www.bizjournals.com/newyork/news/2014/04/14/uncubed-testing-job-board-for-startups.html?page=all" title="Uncubed testing job board for startups">Uncubed testing job board for startups</a>
+						</h4>
+						<h6 class="subheading"><p>[Uncubed's founders] believe there’s still a dearth of reliable information about jobs at the city’s small, early-stage companies.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/wired.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Wired</h6>
+						<h4 class="heading">
+							<a href="http://insights.wired.com/profiles/blog/show?id=6544125%3ABlogPost%3A88302&commentId=6544125%3AComment%3A88714&xg_source=activity" title="8 Things Introverts Can Do to Get a Startup Job">8 Things Introverts Can Do to Get a Startup Job</a>
+						</h4>
+						<h6 class="subheading"><p>Because job fairs have always been instruments of torture, we re-imagined the format.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/metronews.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Metro News</h6>
+						<h4 class="heading">
+							<a href="http://www.metro.us/newyork/lifestyle/career/2014/04/16/get-job-startup-5-tips-uncubed-founder/" title="How to get a job at a startup: 5 tips from Uncubed founder">How to get a job at a startup: 5 tips from Uncubed founder</a>
+						</h4>
+						<h6 class="subheading"><p>Uncubed, produced by Wakefield Media, aims to streamline that process and make it fun. The company just launched a job search function on its site and holds fun events to connect job seekers with the startup world’s hottest companies.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/monsterthinking.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Monster Thinking</h6>
+						<h4 class="heading">
+							<a href="http://www.monsterthinking.com/2014/04/24/five-ways-to-make-your-office-greener/" title="Five ways to make your office greener">Five ways to make your office greener</a>
+						</h4>
+						<h6 class="subheading"><p>…the largest startup hiring and career conference in the U.S.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/yext.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Yext</h6>
+						<h4 class="heading">
+							<a href="http://www.yext.com/blog/2014/04/yext-nys-uncubed-event/" title="Yext at NY’s Uncubed Event">Yext at NY’s Uncubed Event</a>
+						</h4>
+						<h6 class="subheading"><p>Our recruiters had a blast hanging out and chatting with top talent at our Keg &#038; Karaoke lounge. We’re growing quickly so recruiting is a top priority!</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/styleblazer-logo-screenshot.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Style Blazer</h6>
+						<h4 class="heading">
+							<a href="http://styleblazer.com/238659/uncubed-founder-startup-expert-chris-johnson/" title="StyleBlazer Exclusive: ‘Uncubed’ Founder And Startup Expert Chris Johnson Talks Startup Culture, Hiring Trends &#038; More">StyleBlazer Exclusive: ‘Uncubed’ Founder And Startup Expert Chris Johnson Talks Startup Culture, Hiring Trends &#038; More</a>
+						</h4>
+						<h6 class="subheading"><p>Startups are now making waves in their respective arenas and creating serious competition for the long-established, veteran brands who once enjoyed a majority claim over the capital and attention of their consumers. That’s where Uncubed comes in.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/bloomberg.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Bloomberg</h6>
+						<h4 class="heading">
+							<a href="http://www.bloomberg.com/video/there-s-more-opportunity-in-tech-former-banker-RD2smowMRb6oi2tGGk6jlw.html" title="There’s More Opportunity in Tech: Former Banker">There’s More Opportunity in Tech: Former Banker</a>
+						</h4>
+						<h6 class="subheading"><p>What the younger generation of workers want, one of those is culture. They are drawn to the relaxed culture that feels more like how you behave in the rest of your life versus something that is clear and separate when you go to work.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/FROM-CO-NYCEDC_RGB_1.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">NYC EDC</h6>
+						<h4 class="heading">
+							<a href="http://www.nycedc.com/blog-entry/nyc-makes-strides-attract-worlds-top-talent" title="NYC Makes Strides To Attract The World’s Top Talent">NYC Makes Strides To Attract The World’s Top Talent</a>
+						</h4>
+						<h6 class="subheading"><p>Through Wakefield’s national Uncubed events, we got to speak with companies and job-seekers from across the country about how awesome NYC’s tech scene is.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/betabeat.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">BetaBeat</h6>
+						<h4 class="heading">
+							<a href="http://betabeat.com/2014/04/find-your-next-nyc-tech-job-at-this-keg-party-career-fair/" title="Find Your Next NYC Tech Job At This Keg Party Career Fair: Puppies, beer pong, and gainful employment?">Find Your Next NYC Tech Job At This Keg Party Career Fair: Puppies, beer pong, and gainful employment?</a>
+						</h4>
+						<h6 class="subheading"><p>Half the companies walk away with at least one new hire…</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/workforce.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Workforce</h6>
+						<h4 class="heading">
+							<a href="http://www.workforce.com/articles/20530-the-new-job-fair" title="Cocktails, Puppies and Nerf Wars: The New Job Fair">Cocktails, Puppies and Nerf Wars: The New Job Fair</a>
+						</h4>
+						<h6 class="subheading"><p>…imagine meeting information technology recruits while jumping in a bouncy castle, sampling artisan beers or watching artists paint a mural on a warehouse wall.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/about.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">About.com</h6>
+						<h4 class="heading">
+							<a href="http://jobsearch.about.com/od/jobfairs/a/start-up-job-fairs.htm" title="Tips for Attending a Startup Job Fair">Tips for Attending a Startup Job Fair</a>
+						</h4>
+						<h6 class="subheading"><p>…you may get to meet with the company founder and you might even have the opportunity to pitch your ideas.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/beyond.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Beyond</h6>
+						<h4 class="heading">
+							<a href="http://www.beyond.com/articles/a-modern-twist-on-the-tech-job-fair-12551-article.html" title="A Modern Twist on the Tech Job Fair">A Modern Twist on the Tech Job Fair</a>
+						</h4>
+						<h6 class="subheading"><p>The new Uncubed fair is ditching the dull company reps sitting at tables with materials and prospects standing in line to talk to them.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/cbslocal.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">CBS Local News</h6>
+						<h4 class="heading">
+							<a href="http://newyork.cbslocal.com/video/8891975-going-inside-chelseas-uncubed-job-fair/" title="Going Inside Chelsea’s “Uncubed” Job Fair">Going Inside Chelsea’s “Uncubed” Job Fair</a>
+						</h4>
+						<h6 class="subheading"><p>If you think heading to a job fair means being buttoned up and all boring, well think again. An event in Chelsea is putting a new twist on the typical career fair and adding some fun to the job hunt.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/Forbes-Logo.jpg") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">Forbes</h6>
+						<h4 class="heading">
+							<a href="http://www.forbes.com/sites/michaelparrishdudell/2014/07/08/how-to-build-or-find-the-startup-of-your-dreams-wakefield-and-uncubed-cofounder-tarek-pertew-breaks-it-down/" title="How To Build (Or Find) The Startup Of Your Dreams: Wakefield And Uncubed Cofounder Tarek Pertew Breaks It Down">How To Build (Or Find) The Startup Of Your Dreams: Wakefield And Uncubed Cofounder Tarek Pertew Breaks It Down</a>
+						</h4>
+						<h6 class="subheading"><p>Wakefield is effectively bridging the gap between online and offline community.</p>
+</h6>
+					</div>
+				</li>
+							<li>
+				<div class="featured-image press-featured-image" style: background: url("http://uncubed.com/dev/wp-content/uploads/2014/07/techcrunch_logo.png") center no-repeat; background-size: contain;>
+					</div>
+					<div class="post-info">
+						<h6 class="post-category">TechCrunch</h6>
+						<h4 class="heading">
+							<a href="http://techcrunch.com/2012/04/10/nyc-uncubed-silicon-alley-talent-fair/" title="Get A Drink And A Job At NYC Uncubed, The New Silicon Alley Talent Fair">Get A Drink And A Job At NYC Uncubed, The New Silicon Alley Talent Fair</a>
+						</h4>
+						<h6 class="subheading"><p>Cheers to Uncubed for planning a recruiting event you might actually want to hang out at.</p>
+</h6>
+					</div>
+				</li>
+					</ul>
+	</div>
+</div>
+
+
+
+	<footer>
+		<div id="bar">
+			<div id="logo-container">
+				<img id="wakefieldlogo" src="http://uncubed.com/dev/wp-content/themes/uncubed/images/wakefieldcircle.png" alt="WAKEFIELD" />
+			</div>
+		</div>
+		<h3 id="subscribe-header">Subscribe to Wakefield, <br />Uncubed's Daily Email</h3>
+		<h6 id="subscribe-blurb">Get the inside scoop on next generation <br />companies, new tech, and unique<br /> job opportunities.</h6>
+		<br />
+		<div class="footer-subscribe">
+			<h5><form method="post" class="clearfix" action="http://uncubed.com/dev/subscribe.php">
+                    <input type="text" class="email" name="email">
+                    <strong><input type="submit" class="submit" value=">"></strong>
+                    <input type="hidden" name="redirect" value="http://uncubed.com/dev/subscribe.php">
+            </form></h5>
+		</div>
+		<br />
+		<div class="main-container">
+			<div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-15404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15404"><a href="http://uncubed.com/dev/manage-subscriptions/">Manage Subscriptions</a></li>
+<li id="menu-item-15405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15405"><a href="http://uncubed.com/dev/universities/">Universities</a></li>
+<li id="menu-item-15406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15406"><a href="http://uncubed.com/dev/editorial-policy-2/">Editorial Policy</a></li>
+<li id="menu-item-15407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15407"><a href="http://uncubed.com/dev/privacy/">Privacy</a></li>
+<li id="menu-item-15408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15408"><a href="http://uncubed.com/dev/terms-conditions-2/">Terms &#038; Conditions</a></li>
+<li id="menu-item-15409" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15361 current_page_item menu-item-15409"><a href="http://uncubed.com/dev/press/">Press</a></li>
+<li id="menu-item-15410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15410"><a href="http://uncubed.com/dev/advertise-2/">Advertise</a></li>
+<li id="menu-item-15411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15411"><a href="http://uncubed.com/dev/contact-2/">Contact</a></li>
+<li id="menu-item-15412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15412"><a href="http://uncubed.com/dev/about-2/">About</a></li>
+</ul></div>		</div>
+		<br />
+	</footer>
+
+		</body>
+</html>

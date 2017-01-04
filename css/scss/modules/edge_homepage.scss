@@ -1,0 +1,50 @@
+//TESTING SHIT- TODO: MAKE OWN MODULE
+#media {
+	background: url('https://s3.amazonaws.com/uncubed-static/images/edge-panel.jpg');
+	background-size: cover;	
+	position: relative;
+	height: 70%;
+	vertical-align: middle;
+	text-align: center;
+	padding-bottom: 100px;
+	h1 {
+		color: #fff;
+	  	text-shadow: 2px 2px #1d1c1d;
+	  	font-size: 2.5em;
+	}
+	.goButton {
+		font-size: 24px !important;
+		padding: 10px 30px !important;
+		border-radius: 32px !important;
+		display: inline;
+		background-color: #f05a28;
+		border: 1px solid #f05a28;
+		color: #fff;
+	}
+
+	.goSubtext {
+		display: inline-block;
+		margin-top: 12.5px;
+	  	text-shadow: 1px 1px #1d1c1d, -1px -1px #1d1c1d, -1px 1px #1d1c1d, 1px -1px #1d1c1d;
+	  	//text-shadow:  1px 1px #1d1c1d, -1px -1px #1d1c1d, 2px 2px #1d1c1d;
+	  	//font-size: 18px;
+	  	//text-transform: uppercase;
+	  	color: #fff;
+	}
+}
+
+#media a.goButton:hover{
+		background-color: #e04a18;
+		border-color: #e04a18;
+		text-decoration: none;
+}
+.edgeLogoFrontPage {
+	margin-top: 100px;
+	display: block;
+	background: url('https://s3.amazonaws.com/uncubed-static/images/edge.png');
+	background-repeat: no-repeat;
+	width: 175px;
+	height: 164px;
+	left: 50%;
+	margin-left: -87.5px;
+	}

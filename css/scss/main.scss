@@ -1,0 +1,60 @@
+/*
+Theme Name: 	Starkers (Production)
+Theme URI: 		http://viewportindustries.com/products/starkers
+Description: 	The totally nude Wordpress theme!
+Version: 		4.0
+Author: 		Elliot Jay Stocks & Keir Whitaker
+Author URI: 	http://viewportindustries.com
+Tags: 			starkers, naked, clean, basic
+*/
+ 
+/*
+COLORS:
+
+Wakefield orange: #f05a28;
+manila backgrounds: #f3efe1;
+
+*/
+
+/*
+===========================
+CONTENTS:
+
+01 Sensible defaults
+02 Typography
+03 Media queries 
+===========================
+*/
+
+
+//COMPILE WITH SASS in Terminal. sass main.scss ../style.css
+
+//Fonts
+@import "fonts.scss";
+
+//Vender imports 
+
+//@import "vendor/animate.scss";
+@import "vendor/reset.scss";
+/*
+@import "vendor/vex-theme-wireframe.scss";
+@import "vendor/vex.scss";
+*/
+//Dev-named imports
+@import "devs/charlie.scss";
+@import "devs/daniel.scss"; 
+
+//Module-named imports
+@import "modules/edge_homepage.scss";
+@import "modules/background_carousels.scss";
+@import "modules/classes_teaser.scss";
+@import "modules/editorial.scss";
+@import "modules/events_heading.scss";
+@import "modules/pressBlocks.scss";
+@import "modules/sponsors_partners.scss";
+@import "modules/table_list.scss";
+@import "modules/testimonials.scss";
+@import "modules/the_long_one.scss";
+@import "modules/new_social";
+@import "modules/for_companies.scss";
+@import "modules/404_error.scss";

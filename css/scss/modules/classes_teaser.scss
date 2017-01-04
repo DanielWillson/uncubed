@@ -1,0 +1,51 @@
+/* classes teaser */
+
+#classes {
+	background: #000;
+	background: url('images/classes-header-image.jpg') center repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	height: auto;
+	padding: 30px 0;
+}
+
+#classes-info {
+	float: left;
+	max-width: 500px;
+	color: #fff;
+}
+
+#classes-info h3 {
+	font-family: 'Sanchez Bold', serif;
+	margin-bottom: 1em;
+}
+
+.subscribe-button, .subscribe-button:visited {
+	width: 100px;
+	height: 40px;
+	border: 3px solid #F1582C;
+	font-size: 16px;
+	font-family: 'Sanchez Regular', sans-serif;
+	color: #fff;
+	padding: .5em 1em;
+	line-height: 4em;
+	background: #F1582C;
+}
+
+.subscribe-button:hover, .subscribe-button:active {
+	background: #F1582C;
+	color: #FFF;
+}
+
+#product-info h3 a, #product-info h3 a:visited, #product-info h3 a:active {
+	color: #fff;
+	text-decoration: underline;
+}
+
+#product-info h3 a:hover {
+	color: #F1582C;
+	text-decoration: underline;
+}

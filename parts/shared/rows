@@ -1,0 +1,105 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [cnt] => 61
+            [userId] => 237
+            [companyFunding] => 
+            [isFeatured] => yes
+            [createDate] => 2013-11-13 23:30:09
+            [companyHeadquarter] => New York, NY
+            [CompanyLogo] => 1394402280__logo__amplify.png
+            [companyName] => Amplify
+            [companyUrl] => http://www.amplify.com
+            [companyShortDescription] => Amplify is reimagining the way teachers teach and students learn.
+            [noOfEmployee] => fivehundOrMore
+            [companyDescription] => Amplify is reimagining the way teachers teach and students learn. We enable teachers to manage whole classrooms and, at the same time, empower them to offer more personalized instruction, so that students become more active, engaged learners.
+            [jobAddress] => New York, NY
+        )
+
+    [1] => stdClass Object
+        (
+            [cnt] => 9
+            [userId] => 132
+            [companyFunding] => 
+            [isFeatured] => yes
+            [createDate] => 2013-11-09 12:31:25
+            [companyHeadquarter] => New York, NY
+            [CompanyLogo] => intentmedia.gif
+            [companyName] => Intent Media
+            [companyUrl] => http://www.intentmedia.com/
+            [companyShortDescription] => We provide predictive analytics to help retailers recognize & react to the unique value of each site visitor.
+            [noOfEmployee] => hundOneToForNN
+            [companyDescription] => Intent Media takes a data-driven approach to helping commerce companies fully monetize their site traffic--including the unrealized media value that is locked inside it. We build ad servers that make decisions in milliseconds, infrastructure for processing terabytes of data every day, and models reflecting sophisticated insights about our partners' customers. We use the right tool for the right job, deploy continuously, build with Scrum and Kanban, and write code in Ruby, Java, Clojure and Python. We're a NYC based company and we're building the best engineering team in the city.
+            [jobAddress] => New York, NY
+        )
+
+    [2] => stdClass Object
+        (
+            [cnt] => 28
+            [userId] => 155
+            [companyFunding] => 
+            [isFeatured] => yes
+            [createDate] => 2013-11-09 12:35:31
+            [companyHeadquarter] => New York, NY
+            [CompanyLogo] => mashable.png
+            [companyName] => Mashable
+            [companyUrl] => http://www.mashable.com/
+            [companyShortDescription] => News, resources, inspiration and fun for the connected generation.
+            [noOfEmployee] => hundOneToForNN
+            [companyDescription] => Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable’s 23 million monthly unique visitors and 6 million social media followers have become one of the most engaged online news communities. (Specialties : news, blogs, tech, internet, social media, social networks, technology, mobile, media, journalism, culture, entertainment, marketing, gadgets)
+            [jobAddress] => New York, NY
+        )
+
+    [3] => stdClass Object
+        (
+            [cnt] => 8
+            [userId] => 1684
+            [companyFunding] => 
+            [isFeatured] => yes
+            [createDate] => 2014-07-30 10:48:42
+            [companyHeadquarter] => New York, NY
+            [CompanyLogo] => 1406735257__logo__via.png
+            [companyName] => Via
+            [companyUrl] => http://www.ridewithvia.com/
+            [companyShortDescription] => Via is changing the way people get around cities.
+            [noOfEmployee] => oneToTwentyfive
+            [companyDescription] => Via is changing the way people get around cities. Using our app, a luxury ride booked on your phone costs little more than the bus. Via's revolutionary technology allows passengers to seamlessly share their ride -- it's on-demand transportation on a mass scale that's friendly to our planet. We're currently live in NYC and rapidly growing.
+            [jobAddress] => New York, NY
+        )
+
+    [4] => stdClass Object
+        (
+            [cnt] => 26
+            [userId] => 210
+            [companyFunding] => 
+            [isFeatured] => yes
+            [createDate] => 2013-11-09 12:39:10
+            [companyHeadquarter] => New York, NY
+            [CompanyLogo] => yext.png
+            [companyName] => Yext
+            [companyUrl] => http://www.yext.com/
+            [companyShortDescription] => Your geodata and content in the cloud, connected to the world
+            [noOfEmployee] => hundOneToForNN
+            [companyDescription] => Yext provides local cloud-computing services for marketers to manage their geodata and content and connect it everywhere to deliver localized campaigns across channels like ads, listings, landing pages, and other surfaces. Yext has more than 200,000 subscribers to the Local Marketing Cloud.
+            [jobAddress] => New York, NY
+        )
+
+    [5] => stdClass Object
+        (
+            [cnt] => 6
+            [userId] => 1600
+            [companyFunding] => 
+            [isFeatured] => no
+            [createDate] => 2014-04-11 11:56:17
+            [companyHeadquarter] => New York, NY
+            [CompanyLogo] => 1397235008__logo__waywire.png
+            [companyName] => #waywire
+            [companyUrl] => http://www.waywire.com/
+            [companyShortDescription] => #waywire is a social artery for video news, inspiration and leading voices.
+            [noOfEmployee] => hundOrLess
+            [companyDescription] => The #waywire network serves to fundamentally alter the tone and content of public dialogue around some of society’s most pressing issues. The network provides original, syndicated and community created video content, allowing today’s digital generation to develop informed opinions on topics and then engage in positive debates and discussions. 
+            [jobAddress] => New York, NY
+        )
+
+)

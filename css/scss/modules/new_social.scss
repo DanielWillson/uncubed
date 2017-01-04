@@ -1,0 +1,116 @@
+$li-soc-c: #0077b5;
+
+ul#share-page{
+	/*display: block;*/
+	width: 100%;
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+	display: none;
+
+}
+#share-page a {
+	display: inline-block;
+	margin: 0 auto;
+	width: 22%;
+	margin: 10px 1.3%;
+	list-style-type: none;
+}
+#share-page a.fbA {
+	margin-left: 0;
+}
+#share-page a li{
+	width: 100%;
+	height: 25px;
+	border: 1px solid;
+	list-style: none;
+	vertical-align: middle;
+	text-align: center;
+	padding: 3px;
+	//border-radius: 5px;
+	position: relative;
+	left: 0;
+	margin: 0;
+	//margin: 4px;
+	//margin-bottom: 10px;
+	//margin-top:10px;
+	/*padding-top: 3px;*/
+	///background: #fff;
+
+
+	h5 {
+		position: absolute;
+		right: 4px;
+		//margin-top: 2px;
+		//float: right;
+		font-family: 'Sanchez Bold', sans-serif;
+		font-size: 14px;
+		text-transform: lowercase;
+		color: #fff;
+	}
+
+}
+
+@media screen and (max-width:479px) {
+	#share-page a {
+		display: block;
+		width: 100%;
+		margin: 10px 0;
+	}
+	#share-page a li {
+		display: block;
+		width:97%;
+		h5{
+			position:relative;
+			margin:0 auto;
+		}
+		border-radius: 5px;
+	}
+	#share-page ul {
+		position: relative;
+		margin: 0 auto;
+	}
+}
+#share-page li img {
+	//float: left;
+	position: absolute;
+	height: 25px;
+	width: auto;
+	left: 0;
+}
+.fbShare {
+	color: #3b5997;
+	background-color: #3b5997;
+}
+
+.fbShare:hover {
+	//color: #4c66a8;
+	background-color: #4c6aa8;
+}
+
+.twShare {
+	color: #00b6f1;
+	background-color: #00b6f1;
+}
+.twShare:hover{
+	//color: #11c7f2;
+	background-color: #11c7f2;
+}
+
+.liShare {
+	color: $li-soc-c;
+	background-color: $li-soc-c;
+}
+.liShare:hover {
+	//color: #1188c6;
+	background-color: #1188c6;
+}
+
+.gShare {
+	color: #dc4a38;
+	background-color: #dc4a38;
+}
+.gShare:hover {
+	//color: #ed5b49;
+	background-color: #ed5b49;
+}

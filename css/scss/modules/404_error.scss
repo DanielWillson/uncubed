@@ -1,0 +1,35 @@
+.error-page-main-container {
+  background: transparent url(https://s3.amazonaws.com/uncubed-static/background/404_error.png) no-repeat scroll center center / cover;
+  color: #000;
+  height: 500px;
+  width: 100%;
+}
+
+.error-main-text {
+  width: 100%;
+  text-align: center;
+  top: 59px;
+}
+
+.error-main-text h2 {
+  font-family: "Gotham Black" !important;
+  font-size: 30px !important;
+}
+
+.error-main-text h4 {
+  font-family: "Gotham Regular" !important;
+  font-size: 20px !important;
+  line-height: 30px;
+}
+
+
+.error-contact-us {
+	color: #f05a28;
+	text-decoration: none;
+}
+
+.error-contact-us:hover {
+	color: #F7946B;
+	text-decoration: none;
+	cursor: pointer;
+}
